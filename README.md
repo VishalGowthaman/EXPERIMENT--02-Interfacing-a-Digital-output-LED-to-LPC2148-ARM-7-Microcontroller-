@@ -160,6 +160,6 @@ int main()
 ![output](2.png)
  
 ## Result :
-Interfacing a digital output with ARM microcontroller is executed 
+Thus we have interfaced a digital output with ARM microcontroller.
 
 
